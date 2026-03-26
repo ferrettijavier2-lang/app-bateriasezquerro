@@ -16,7 +16,7 @@ APP BATERIAS - INSTRUCCIONES RAPIDAS
 - Antes de subir online, cambiar en:
   frontend/src/App.jsx
 
-  const API_URL = "https://TU-BACKEND.onrender.com/api";
+  const API_URL = "https://app-baterias.onrender.com/api";
 
   por la URL real de tu backend en Render.
 
